@@ -8,7 +8,7 @@ setup(
   author = 'M. H. SAEIDI',                   # Type in your name
   author_email = 'mohammadsaeidi1551@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/moftibde/decouple/archive/refs/tags/version_100_decouple_package.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/moftibde/decouppling/archive/refs/tags/v_100_decouppling.tar.gz',    # I explain this later on
   keywords = ['inequality', 'decouple', 'equation'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
